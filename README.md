@@ -17,6 +17,7 @@
 - `model1.py` - логистическая регрессия с MLFlow трекингом
 - `model2.py` - решающее дерево с MLFlow трекингом
 - `requirements.txt` - зависимости проекта
+- `screenshots/` - скриншоты MLFlow UI
 
 ## Отслеживаемые параметры
 
@@ -55,8 +56,8 @@ mlflow server --host 127.0.0.1 --port 8080
 
 3. Запустите эксперименты (в новом терминале):
 ```bash
-python3 model1.py  # Логистическая регрессия
-python3 model2.py  # Решающее дерево
+python3 model1.py
+python3 model2.py
 ```
 
 4. Откройте MLFlow UI в браузере:
