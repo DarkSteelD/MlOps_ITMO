@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.8.0-60-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-05-28T17:57:19.529822Z",
+  "program": "/home/dark/Documents/GitHub/MlOps_ITMO/model2.py",
+  "codePath": "model2.py",
+  "git": {
+    "remote": "git@github.com:DarkSteelD/MlOps_ITMO.git",
+    "commit": "7bdc66ebc1b416795e9b60dbc2fdecbf5949cca0"
+  },
+  "email": "daler12cool@gmail.com",
+  "root": "/home/dark/Documents/GitHub/MlOps_ITMO",
+  "host": "dark-ASUS-TUF-Gaming-F15-FX507ZE",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "model2.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1006449913856",
+      "used": "34091802624"
+    }
+  },
+  "memory": {
+    "total": "16371441664"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 16
+  }
+}
